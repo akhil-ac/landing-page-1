@@ -1,0 +1,9 @@
+.main .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
